@@ -1,16 +1,59 @@
-## Hi there 👋
+## Hi, I'm Siti Sahrani 👋
 
-<!--
-**SitiSahrani/sitisahrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s Graduate in Mathematics  
+💻 Aspiring Data & Software Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- Strong analytical and problem-solving background in Mathematics
+- Developing projects using Python, C++, JavaScript, SQL, and Power BI
+- Interested in Data Analysis, Business Intelligence, and Web Development
+- Actively building a professional portfolio for ODP / Entry-Level IT roles
+
+---
+
+### 🛠 Tech Stack
+- **Languages**: C++, Python, JavaScript, SQL  
+- **Frontend**: React, Tailwind CSS, HTML, CSS  
+- **Backend**: Django (basic)  
+- **Data & BI**: Power BI, Excel, Pandas  
+- **Tools**: Git, GitHub, VS Code  
+
+---
+
+### 📌 Featured Projects
+
+- 🧮 **Fractal Visualization Project** — Python, C++, MATLAB  
+  Research-based project focusing on computational modeling and numerical
+  visualization using iterative algorithms  
+  🔗 GitHub: [Fractal Generator](https://github.com/SitiSahrani/Fractal-Generator-Python/)
+
+- 🤖 **AI Blog Generator** — Python, Django, HTML, JavaScript  
+  AI-based application that converts YouTube videos into written blog articles,
+  developed with a backend-focused approach  
+  🔗 GitHub: [AI Blog Generator](https://github.com/SitiSahrani/AI-Blog-Generator/)
+
+- 📊 **Public Savings Analysis Dashboard** — Excel & Power BI  
+  Analysis of public savings across several banks in Indonesia using structured
+  data processing and interactive visualizations  
+  🔗 GitHub: [Public Savings Dashboard](https://github.com/SitiSahrani/Analysis-of-Public-Savings-at-Bank-Indonesia-2025-)
+
+- 🌐 **Personal Portfolio Website** — React & Tailwind CSS  
+  Responsive personal website with modern UI, dark mode, and animations  
+  🔗 Website: [Portfolio](https://sitisahrani.github.io)
+
+
+---
+
+### 📚 Currently Learning
+- React.js
+- Django
+- Power BI (DAX)
+- Advanced SQL
+
+---
+
+### 🔗 Connect with Me
+- LinkedIn: [https://linkedin.com/in/sitiishrn](https://linkedin.com/in/sitiishrn)
+- Portfolio: [https://sitisahrani.github.io](https://sitisahrani.github.io)
