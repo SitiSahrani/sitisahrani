@@ -1,7 +1,7 @@
 ## Hi, I'm Siti Sahrani 👋
 
 🎓 Master’s Graduate in Mathematics  
-💻 Aspiring Backend Developer  
+💻 Aspiring Web Developer  
 
 ---
 
@@ -46,11 +46,11 @@
 ---
 
 ### 📚 Currently Learning
-- Python & Django (Backend Development)  
-- SQL & Database Management  
-- React.js (Frontend basics)  
-- Excel & Power BI  
-
+- Web development fundamentals  
+- Backend development with Python & Django  
+- SQL & database concepts  
+- React.js *(frontend basics)*  
+- Excel & Power BI for data analysis  
 ---
 
 ### 🔗 Connect with Me
