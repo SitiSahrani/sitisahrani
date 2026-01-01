@@ -47,7 +47,7 @@
 ---
 
 ### 📚 Currently Learning
-- React.js
+- React
 - Django
 - Power BI (DAX)
 - Advanced SQL
