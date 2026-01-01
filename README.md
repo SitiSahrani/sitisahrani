@@ -1,23 +1,23 @@
 ## Hi, I'm Siti Sahrani 👋
 
 🎓 Master’s Graduate in Mathematics  
-💻 Aspiring Data & Software Developer  
+💻 Aspiring Backend Developer  
 
 ---
 
 ### 🧠 About Me
-- Strong analytical and problem-solving background in Mathematics
-- Developing projects using Python, C++, JavaScript, SQL, and Power BI
-- Interested in Data Analysis, Business Intelligence, and Web Development
-- Actively building a professional portfolio for ODP / Entry-Level IT roles
+- Strong analytical and problem-solving skills with a Mathematics background  
+- Currently learning backend development using Python, Django, and SQL  
+- Interested in building web applications and handling data processing  
+- Actively developing a professional portfolio for ODP / Entry-Level IT roles  
 
 ---
 
 ### 🛠 Tech Stack
-- **Languages**: C++, Python, JavaScript, SQL  
-- **Frontend**: React, Tailwind CSS, HTML, CSS  
+- **Languages**: Python, C++, JavaScript, SQL  
 - **Backend**: Django (basic)  
-- **Data & BI**: Power BI, Excel, Pandas  
+- **Frontend**: React, Tailwind CSS, HTML, CSS (basic)  
+- **Data & BI**: Excel, Power BI  
 - **Tools**: Git, GitHub, VS Code  
 
 ---
@@ -43,17 +43,16 @@
   Responsive personal website with modern UI, dark mode, and animations  
   🔗 Website: [Portfolio](https://sitisahrani.github.io)
 
-
 ---
 
 ### 📚 Currently Learning
-- React
-- Django
-- Power BI (DAX)
-- Advanced SQL
+- Python & Django (Backend Development)  
+- SQL & Database Management  
+- React.js (Frontend basics)  
+- Excel & Power BI  
 
 ---
 
 ### 🔗 Connect with Me
-- LinkedIn: [https://linkedin.com/in/sitiishrn](https://linkedin.com/in/sitiishrn)
+- LinkedIn: [https://linkedin.com/in/sitiishrn](https://linkedin.com/in/sitiishrn)  
 - Portfolio: [https://sitisahrani.github.io](https://sitisahrani.github.io)
