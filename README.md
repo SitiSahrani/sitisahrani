@@ -1,13 +1,13 @@
 ## Hi, I'm Siti Sahrani 👋
 
 🎓 Master’s Graduate in Mathematics  
-💻 Aspiring Web Developer  
+💻 Backend-focused Web Developer  
 
 ---
 
 ### 🧠 About Me
 - Strong analytical and problem-solving skills with a Mathematics background  
-- Currently learning backend development using Python, Django, and SQL  
+- Currently strengthening backend development skills using Python, Django, and SQL  
 - Interested in building web applications and handling data processing  
 - Actively developing a professional portfolio for ODP / Entry-Level IT roles  
 
@@ -15,7 +15,7 @@
 
 ### 🛠 Tech Stack
 - **Languages**: Python, C++, JavaScript, SQL  
-- **Backend**: Django (basic)  
+- **Backend**: Django  
 - **Frontend**: React, Tailwind CSS, HTML, CSS (basic)  
 - **Data & BI**: Excel, Power BI  
 - **Tools**: Git, GitHub, VS Code  
